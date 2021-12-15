@@ -9,3 +9,5 @@ A.
 9. Il y a une erreur avec bad test.
 10.La validation n'a pas identifié l'erreur dans les tests
 13. github execute les tests.
+
+J'ai fait ce td avec Alexandre Coulet et Hugo Lanzafame
