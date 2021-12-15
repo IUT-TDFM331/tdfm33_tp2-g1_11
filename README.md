@@ -6,4 +6,5 @@ A.
     4. Il y a une erreur.
 
 6. il y a des nouveaux fichiers
-9. il y a une erreur.
+9. Il y a une erreur avec bad test.
+10.La validation n'a pas identifié l'erreur dans les tests
